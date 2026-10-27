@@ -174,6 +174,11 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Russian Code Cup](https://www.russiancodecup.ru/en/) | Programming competitions powered by Mail.Ru Group. Competition consists of 3 qualification, 1 elimination and 1 final rounds. For each round contestants are given 4-8 problems which must be solved in a fixed amount of time. |
 | ★★☆ | [CodeFights](https://codesignal.com/) | CodeFights is a website for competitive programming practice and interview preparation. It features daily challenges of varying difficulty, an archive of problems and regular (every 15 minutes) mini-tournaments. Good for beginners. |
 | ★★☆ | [OmegaUp](https://omegaup.com/) (Spanish) | OmegaUp is a community-based website for competitive programing training. It's also where Mexican Olympiad in Informatics (OMI : Olimpiada Mexicana de Informática) is hosted. |
+| ★★☆ | [DMOJ](https://dmoj.ca/) | Open-source online judge with a large problem archive, including past CCC and COCI problems, and regular rated contests. |
+| ★★★ | [Luogu](https://www.luogu.com.cn/) (Chinese) | China's largest online judge, with a huge problem set, rated rounds and a very active community. Most Chinese OI students practise here. |
+| ★★★ | [QOJ](https://qoj.ac/) | Judge that mirrors recent ICPC regionals and olympiad contests, often with official data, so you can upsolve almost any big contest. |
+| ★★★ | [The Universal Cup](https://ucup.ac/) | Weekly team contests in ICPC style, using recent regional problem sets, with a rating across the whole season. Many top ICPC teams use it as training. |
+| ★★☆ | [beecrowd](https://judge.beecrowd.com/) | Formerly URI Online Judge. Thousands of categorised problems with rankings by user, university and country. Popular in Latin America. |
 
 ### Problem Classifiers
 > Sites classifying programming problems.  
